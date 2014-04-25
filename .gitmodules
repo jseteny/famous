@@ -1,33 +1,33 @@
 [submodule "core"]
 	path = core
-	url = https://github.com:Famous/core.git
+	url = https://github.com:Famous/core
 [submodule "widgets"]
 	path = widgets
-	url = https://github.com:Famous/widgets.git
+	url = https://github.com:Famous/widgets
 [submodule "events"]
 	path = events
-	url = https://github.com:Famous/events.git
+	url = https://github.com:Famous/events
 [submodule "inputs"]
 	path = inputs
-	url = https://github.com:Famous/inputs.git
+	url = https://github.com:Famous/inputs
 [submodule "math"]
 	path = math
-	url = https://github.com:Famous/math.git
+	url = https://github.com:Famous/math
 [submodule "modifiers"]
 	path = modifiers
-	url = https://github.com:Famous/modifiers.git
+	url = https://github.com:Famous/modifiers
 [submodule "physics"]
 	path = physics
-	url = https://github.com:Famous/physics.git
+	url = https://github.com:Famous/physics
 [submodule "surfaces"]
 	path = surfaces
-	url = https://github.com:Famous/surfaces.git
+	url = https://github.com:Famous/surfaces
 [submodule "transitions"]
 	path = transitions
-	url = https://github.com:Famous/transitions.git
+	url = https://github.com:Famous/transitions
 [submodule "utilities"]
 	path = utilities
-	url = https://github.com:Famous/utilities.git
+	url = https://github.com:Famous/utilities
 [submodule "views"]
 	path = views
-	url = https://github.com:Famous/views.git
+	url = https://github.com:Famous/views
